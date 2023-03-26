@@ -1,6 +1,8 @@
 # wisteria-seqeunce
 This script generates the [Wisteria sequence](https://www.youtube.com/watch?v=o8c4uYnnNnc). 
 
+output: `[0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 18, 19, 18, 17, 16, 15, 14, 13, 12, 11, 27]`
+
 # Plotting with Seaborn
 ## Basic Scatterplots
 Scatterplot of 1000 numbers:

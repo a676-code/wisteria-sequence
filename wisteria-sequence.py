@@ -21,6 +21,8 @@ def generate_wisteria(n):
         i += 1
     return sequence
 
+print(generate_wisteria(30))
+
 # Basic scatterplots
 n = 100
 sequence = generate_wisteria(n)
