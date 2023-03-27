@@ -1,3 +1,7 @@
+# wisteria_sequence.py
+# Andrew Lounsbury
+# 26/3/23
+# Purpose: generate the wisteria sequence; https://www.youtube.com/watch?v=o8c4uYnnNnc
 
 import pandas as pd
 import seaborn as sns
